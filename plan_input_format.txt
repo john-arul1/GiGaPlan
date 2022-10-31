@@ -1,0 +1,11 @@
+file:test1.xlsx
+nrows:7
+ncols:10
+scol:5
+srow:4
+nsamples:1000
+
+---------------------
+MVSF_ACTIVITY_TRIAL1.xlsx
+
+nsamples is number of samples
