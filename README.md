@@ -1,4 +1,4 @@
-# tomato
+# GiGaPlan
 Project schedule Monte-Carlo Simulation with Excel
 The program reads a collection of activities from an excel file. The activities are to be provided with the following.
 
